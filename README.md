@@ -1,2 +1,11 @@
-# portfolio
-Work examples
+## Portfolio
+
+# [Ketra N3](http://goketra.com/ketraproducts/n3/)
+Hardware design for main processor/interface board
+http://goketra.com/ketraproducts/n3/
+
+# [Ketra X1](http://goketra.com/ketraproducts/x1/)
+Hardware design for all electronics
+Firmware design for user interface
+
+
