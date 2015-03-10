@@ -24,7 +24,7 @@ This project went unfunded, but was a tremendous learning experience.
 
 # [SapphireOS code samples](https://github.com/jbillhei/portfolio/tree/master/code_samples)
 
-# [ChromaTron MK3 Wireless LED Lighting System]
+# [ChromaTron MK3 Wireless LED Lighting System](https://github.com/jbillhei/portfolio/tree/master/chromatron_mk3)
 
 
 ## Event Lighting
