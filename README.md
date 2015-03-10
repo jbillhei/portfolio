@@ -1,4 +1,4 @@
-### Jeremy Billheimer's Portfolio
+# Jeremy Billheimer's Portfolio
 
 An abbreviated sampling of some of my work.
 
@@ -6,33 +6,30 @@ An abbreviated sampling of some of my work.
 
 ## Commercial/Industrial Products
 
-# [Ketra N3](http://goketra.com/ketraproducts/n3/)
+### [Ketra N3](http://goketra.com/ketraproducts/n3/)
 * Hardware design for main processor/interface board
 
-# [Ketra X1](http://goketra.com/ketraproducts/x1/)
+### [Ketra X1](http://goketra.com/ketraproducts/x1/)
 * Hardware design for all electronics
 * Firmware design for user interface and sensors
 
 ## Previous Work
 
-# [Kickstarter for Sapphire Open Systems](https://www.kickstarter.com/projects/1286098094/wirelessly-connect-all-the-things-with-sapphire)
+### [Kickstarter for Sapphire Open Systems](https://www.kickstarter.com/projects/1286098094/wirelessly-connect-all-the-things-with-sapphire)
 
 This project went unfunded, but was a tremendous learning experience.
+
+### [SapphireOS code samples](https://github.com/jbillhei/portfolio/tree/master/code_samples)
+
+Code samples from the Sapphire Operating System that was a core component of our Kickstarter project.
 
 
 ## Other Projects
 
-# [SapphireOS code samples](https://github.com/jbillhei/portfolio/tree/master/code_samples)
+### Event Lighting
 
-# [ChromaTron MK3 Wireless LED Lighting System](https://github.com/jbillhei/portfolio/tree/master/chromatron_mk3)
+I've done lighting for numerous partner dance events and parties around the country, using custom built LED lighting systems such as the [ChromaTron MK3](https://github.com/jbillhei/portfolio/tree/master/chromatron_mk3).
 
-
-## Event Lighting
-
-I've done lighting for numerous partner dance events around the country, using custom built LED lighting systems such as the ChromaTron MK3 linked above.
-
-
-# Past Events
 
 * Lost Valley Blues Recess - Eugene, OR - July 2012
 * Northwest Blues Recess - Bellingham, WA - August 2012
