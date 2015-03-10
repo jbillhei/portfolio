@@ -10,3 +10,8 @@
 * Firmware design for user interface and sensors
 
 
+## [Kickstarter for Sapphire Open Systems](https://www.kickstarter.com/projects/1286098094/wirelessly-connect-all-the-things-with-sapphire)
+
+This project went unfunded, but was a tremendous learning experience.
+
+
