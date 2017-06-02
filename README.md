@@ -3,6 +3,12 @@
 An abbreviated sampling of some of my work.
 
 
+## Current Projects
+
+[Chromatron Wifi Pixel Controller](http://chromatron.io)
+
+[LED Artwork](https://hackaday.io/projects/hacker/224284)
+
 
 ## Commercial/Industrial Products
 
@@ -39,8 +45,6 @@ I've done lighting for numerous partner dance events and parties around the coun
 * Recess Massive California - Placerville, CA - July 2013
 * Rose City Blues 2013 - Portland, OR - December 2013
 * Austin Blues Party 7 - Austin, TX - April 2014
-
-#### Upcoming Events
 * [Austin Blues Party 8 - Austin, TX - March 2015](http://www.austinbluesparty.com/)
 
 
