@@ -12,10 +12,18 @@ An abbreviated sampling of some of my work.
 
 ## Commercial/Industrial Products
 
-### [Ketra N3](http://goketra.com/ketraproducts/n3/)
+### [Ketra N3](https://www.ketra.com/products/controls/N3)
 * Hardware design for main processor/interface board
+* Firmware design for hardware drivers
 
-### [Ketra X1](http://goketra.com/ketraproducts/x1/)
+### [Ketra N4](https://www.ketra.com/products/controls/N4)
+* Hardware design for main board
+
+### [Ketra X2](https://www.ketra.com/products/interfaces/X2Keypad)
+* Hardware design for all electronics
+* Firmware design for low level hardware drivers
+
+### [Ketra X1 (unfortunately a discontinued product)](http://goketra.com/ketraproducts/x1/)
 * Hardware design for all electronics
 * Firmware design for user interface and sensors
 
